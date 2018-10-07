@@ -9,6 +9,6 @@
 import Foundation
 class Test {
     func salut() {
-        print("Salut")
+        print("Salut, ca va ?")
     }
 }
